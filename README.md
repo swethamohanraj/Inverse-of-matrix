@@ -1,7 +1,7 @@
 # Inverse-of-matrix
 
 ## AIM:
-To write a program to perform Inversse-two-matrix using python programming.
+To write a program to perform Inversse-of-matrix using python programming.
 
 ## ALGORITHM:
 ### Step 1:
@@ -36,5 +36,5 @@ print(a)
 ![image](https://user-images.githubusercontent.com/94228215/153698638-2b9253ca-b774-446d-8b2d-9bd62a1f5b65.png)
 
 ## RESULT:
-Thus the program is written to perform Inverse-two-matrix using python programming.
+Thus the program is written to perform Inverse-of-matrix using python programming.
 
